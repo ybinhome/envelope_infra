@@ -1,2 +1,2 @@
 # envelope_infra
-envelope 项目微服务拆分 infra 子项目
+envelope 项目微服务拆分基础设施子项目 enveloe_infra
