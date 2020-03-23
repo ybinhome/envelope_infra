@@ -2,7 +2,7 @@ package base
 
 import (
 	"github.com/sirupsen/logrus"
-	"github.com/ybinhome/envelope/infra"
+	"github.com/ybinhome/envelope_infra"
 	"os"
 	"os/signal"
 	"reflect"

@@ -3,7 +3,7 @@ package base
 import (
 	"github.com/kataras/iris/v12"
 	"github.com/tietang/go-eureka-client/eureka"
-	"github.com/ybinhome/envelope/infra"
+	"github.com/ybinhome/envelope_infra"
 	"time"
 )
 

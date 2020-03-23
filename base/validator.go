@@ -4,7 +4,7 @@ import (
 	"github.com/go-playground/locales/zh"
 	ut "github.com/go-playground/universal-translator"
 	"github.com/sirupsen/logrus"
-	"github.com/ybinhome/envelope/infra"
+	"github.com/ybinhome/envelope_infra"
 	"gopkg.in/go-playground/validator.v9"
 	vtzh "gopkg.in/go-playground/validator.v9/translations/zh"
 )

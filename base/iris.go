@@ -5,7 +5,7 @@ import (
 	"github.com/kataras/iris/v12/middleware/logger"
 	irisRecover "github.com/kataras/iris/v12/middleware/recover"
 	"github.com/sirupsen/logrus"
-	"github.com/ybinhome/envelope/infra"
+	"github.com/ybinhome/envelope_infra"
 	"time"
 )
 

@@ -5,7 +5,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"
 	"github.com/tietang/props/kvs"
-	"github.com/ybinhome/envelope/infra"
+	"github.com/ybinhome/envelope_infra"
 )
 
 // dbx 数据库实例
